@@ -1,0 +1,15 @@
+Netlist_File: bhar.net Netlist_ID: SHA256:33bb0ae845bc970ef15899f1cab5803c32d895d8dbc4ddb7d6963da0f6dcc437
+Array size: 39 x 35 logic blocks
+
+#block name	x	y	subblk	block number
+#----------	--	--	------	------------
+optionb_LUT3_O.t_frag	19	8	0	#0
+$iopadmap$bhar.optionb	26	3	0	#1
+$iopadmap$bhar.optionc	28	3	0	#2
+Y		16	3	0	#3
+$iopadmap$bhar.optiona	24	3	0	#4
+$iopadmap$bhar.optiond	30	3	0	#5
+Z		18	3	0	#6
+X		14	3	0	#7
+$false		3	1	0	#8
+$true		2	1	0	#9
